@@ -1,1 +1,2 @@
 "this is file B in the folder" 
+"not easy to use vim or nano to edit"
