@@ -1,1 +1,2 @@
 diff file
+added one line for git diff demo
